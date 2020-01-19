@@ -1,4 +1,4 @@
-# Module 2 Challenge 
+# All Stocks Analysis - Challenge 
 
 This is a sample of the Stock-Analysis for all stocks in a year. A end user will enter a year 2017 or 2018 to read the correspond worksheet to analyze all stock tickers.
 The stock tickers are the list of symbols sorted in alphabet order and ascending date. The goal is to write macro subroutine to quickly print out of the analysis data table with three columns:
