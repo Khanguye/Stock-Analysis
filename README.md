@@ -29,7 +29,7 @@ Writing VBA marco with the best performance such as to read once data cells from
 - Select new ticker if the current row ticker is different the current ticker
 - Accumulate the total Volumne of current ticker
 - Find the startingPrices of current ticker if it is the fisrt value
-- Find the startingPrices of current ticker if it is the last value
+- Find the endingPrices of current ticker if it is the last value
 - Exit Loop
 - Fill the output table with (totalVolumnes, startingPrices, endingPrices) array
 - Format the table
